@@ -1,0 +1,6 @@
+# --- Harpia SPHY Stack ---
+numpy
+pandas
+pyarrow
+matplotlib
+ursina
